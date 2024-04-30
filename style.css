@@ -78,6 +78,7 @@ justify-content: space-around;
 border-bottom:solid black 1px;
 flex-wrap:wrap;
 gap:10px;
+text-align: center;
 
 }
 .catagories p{
